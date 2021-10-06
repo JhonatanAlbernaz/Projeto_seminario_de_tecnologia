@@ -14,7 +14,7 @@
 }
 
 .div-espacamento {
-    margin-left: 770px;
+    margin-left: 700px;
     margin-top: 10px;
 }
 
@@ -71,7 +71,7 @@
 .imagem-qr-code {
     position: absolute;
     top: 165px;
-    left: 334px;
+    left: 340px;
     height: 160px;
 }
 
@@ -82,16 +82,16 @@
     letter-spacing: .1em;
     font-family: "Roboto",sans-serif;
     font-weight: 700;
-    margin-top: 35px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 
 .descricao {
     color: white;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-family: "Roboto",sans-serif;
     margin-bottom: 1rem;
-    width: 515px;
+    width: 425px;
 }
 
 .imagem-logo {
