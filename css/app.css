@@ -70,15 +70,15 @@
 
 .imagem-qr-code {
     position: absolute;
-    top: 145px;
-    left: 341px;
+    top: 165px;
+    left: 334px;
     height: 160px;
 }
 
 .titulo-terceira-section {
     text-transform: uppercase;
-    color: #F48305;
-    font-size: 1.425rem;
+    color: white;
+    font-size: 1.725rem;
     letter-spacing: .1em;
     font-family: "Roboto",sans-serif;
     font-weight: 700;
@@ -87,11 +87,11 @@
 }
 
 .descricao {
-    color: #f4853f;
-    font-size: 1.08rem;
+    color: white;
+    font-size: 1.3rem;
     font-family: "Roboto",sans-serif;
     margin-bottom: 1rem;
-    width: 456px;
+    width: 515px;
 }
 
 .imagem-logo {
